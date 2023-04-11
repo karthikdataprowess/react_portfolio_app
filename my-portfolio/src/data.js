@@ -1,34 +1,34 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "Save maps",
     subtitle: "MERN Stack",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+    image: "./maps_save.jpeg",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
+    title: "Load maps",
     subtitle: "React and Python",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+    image: "./maps_load.jpeg",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
+    title: "Customize routes",
     subtitle: "React and Firebase",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+    image: "./maps_custom_route.jpeg",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
+    title: "Time and Distance Calculator",
     subtitle: "React Hooks",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+    image: "./maps_download.png",
     link: "https://reactbootcamp.com",
   },
 ];
